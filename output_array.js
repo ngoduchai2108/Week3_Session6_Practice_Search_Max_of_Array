@@ -7,5 +7,5 @@ function output_array(array) {
         }
         data+=array[i]+" , ";
     }
-    return document.getElementById('array').innerHTML=data;
+    return data;
 }

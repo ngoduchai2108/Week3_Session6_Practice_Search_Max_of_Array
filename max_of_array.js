@@ -9,5 +9,5 @@ function max_of_array(array) {
         }
     }
     data1+="Phan tu Lon Nhat trong mang la: "+Max+ " voi chi so la: "+digit;
-    return document.getElementById('result').innerHTML=data1;
+    return data1;
 }
